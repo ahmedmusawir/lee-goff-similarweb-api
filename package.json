@@ -39,6 +39,7 @@
     "axios": "^1.3.2",
     "moment": "^2.29.4",
     "nodesass": "^0.0.2-security",
+    "react-loader-spinner": "^5.3.4",
     "sass": "^1.58.0"
   }
 }
